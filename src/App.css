@@ -1,0 +1,12 @@
+.header{
+  width: 100%;
+  background-color: greenyellow;
+  text-align: center;
+  padding: 1em;
+  font-size: large;
+  }
+
+.TableContainer{
+  width: 80%;
+  margin: 0 auto;
+}
