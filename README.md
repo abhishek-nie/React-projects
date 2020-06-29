@@ -1,3 +1,5 @@
+In master Branch i have uploaded Covid tracker project
+
 # reactCovidApp
 a website to fetch real time data from covid-19 api
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
